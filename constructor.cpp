@@ -27,5 +27,10 @@ class mahasiswa
             cout << "NIM = " << nim << endl;
             cout << "Nama = " << nama << endl;
             cout << endl;
-        }
+        };
 };
+
+int main()
+{
+    
+}
