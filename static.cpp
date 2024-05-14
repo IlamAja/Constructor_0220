@@ -35,5 +35,15 @@ void mahasiswa::printAll()
 
 int main()
 {
+    mahasiswa mhs1("Ilam Ganteng");
+    mahasiswa mhs2("Farhad 15");
+    mahasiswa mhs3("Panji Newbelens");
+    mahasiswa mhs4("Dika Gohom");
+
+    mhs1.printAll();
     
+    mhs2.printAll();
+    mhs3.printAll();
+    mhs4.printAll();
+    return 0;
 }
