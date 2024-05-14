@@ -10,5 +10,11 @@ class mahasiswa
 
         void setID();
 
-        
+        void printAll();
+
+        mahasiswa(string pNama)
+        {
+            nama = pNama;
+            setID();
+        }
 };
